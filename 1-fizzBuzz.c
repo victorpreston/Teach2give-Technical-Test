@@ -1,5 +1,7 @@
 #include "main.h"
 
+void fizzbuzz(int lowerLimit, int upperLimit);
+
 /**
  * Question 1: FizzBuzz
  *
