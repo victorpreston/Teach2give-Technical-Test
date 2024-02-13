@@ -7,6 +7,6 @@
  * prototypes
  */
 
-int _putchar(char c);
+void fizzbuzz(int lowerLimit, int upperLimit);
 
-#endif /*teach2give*/
+#endif /* teach2give */
