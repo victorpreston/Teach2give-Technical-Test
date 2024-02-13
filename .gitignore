@@ -1,5 +1,2 @@
-*
-!*.c
-!*.h
-!/.gitignore
-!README.md
+*.swp
+*.out
