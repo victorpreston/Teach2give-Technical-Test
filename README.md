@@ -24,7 +24,7 @@ contain function prototypes, constant definitions and other declarations that ar
 
 ## How to Run
 ```
-git clone https://github.com/patrickdeyoreo/Teach2give-Technical-Test.git
+git clone https://github.com/victorpreston/Teach2give-Technical-Test.git
 cd Teach2give-Technical-Test
 gcc main.h <fileName> -o <Output_fileName>
 ```
@@ -33,7 +33,7 @@ gcc main.h <fileName> -o <Output_fileName>
 </p>
 
 ```
-git clone https://github.com/patrickdeyoreo/Teach2give-Technical-Test.git
+git clone https://github.com/victorpreston/Teach2give-Technical-Test.git
 cd Teach2give-Technical-Test && cd output
 $./OutputFile
 ```
